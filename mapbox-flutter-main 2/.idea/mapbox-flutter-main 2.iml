@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/basic_nav/completed_code/mapbox_navigation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_nav/completed_code/mapbox_navigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_nav/completed_code/mapbox_navigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/turn_by_turn/starter_code/mapbox_turn_by_turn/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/turn_by_turn/starter_code/mapbox_turn_by_turn/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/turn_by_turn/starter_code/mapbox_turn_by_turn/build" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_nav/starter_code/mapbox_navigation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_nav/starter_code/mapbox_navigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_nav/starter_code/mapbox_navigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/turn_by_turn/completed_code/mapbox_turn_by_turn/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/turn_by_turn/completed_code/mapbox_turn_by_turn/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/turn_by_turn/completed_code/mapbox_turn_by_turn/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
