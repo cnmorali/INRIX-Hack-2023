@@ -2,5 +2,5 @@
 
 To compile, open directory in terminal and type the commands:
 
-flutter pub get
+flutter pub get;
 flutter run
