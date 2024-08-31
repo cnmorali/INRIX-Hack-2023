@@ -1,3 +1,7 @@
+Team: Chloé Morali, Anagha Nair, Ryan Deivert, Irene Chen, Asha LaManque
+
+Technologies Used: Flutter/Dart framework on Android Studio Code and MapBox's API
+
 # PedalPal - Bike Safer! For Inrix Hack 2023
 
 PedalPal is a cross-platform app that provides navigation routes to cyclists using the most bike-friendly paths.
