@@ -1,4 +1,4 @@
-# PedalPal - Bike Safer!
+# PedalPal - Bike Safer! For Inrix Hack 2023
 
 PedalPal is a cross-platform app that provides navigation routes to cyclists using the most bike-friendly paths.
 
